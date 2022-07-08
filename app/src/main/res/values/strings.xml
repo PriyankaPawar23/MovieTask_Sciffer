@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="refresh">Refresh</string>
+    <string name="summary">Summary</string>
+    <string name="writer">Writer</string>
+    <string name="director">Director</string>
+    <string name="cast">Cast</string>
+    <string name="please_wait">Please Wait</string>
+</resources>
